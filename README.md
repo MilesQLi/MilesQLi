@@ -49,11 +49,4 @@ I'm an AI researcher and data scientist passionate about advancing **Large Langu
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-BigData-orange?logo=apachespark)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilesQLi&show_icons=true&hide_title=true&theme=default" />
-</p>
 
