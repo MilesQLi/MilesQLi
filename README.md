@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Miles Qi Li (李琦)</h1>
+<h1 align="center">👋 Hi, I'm Miles Qi Li</h1>
 <p align="center">
   🎓 AI Researcher | 🧠 LLM Expert | 📊 Data Scientist<br>
   🔬 Data Science, Deep Learning, LLM, NLP, Cybersecurity, and Real-World Applications
