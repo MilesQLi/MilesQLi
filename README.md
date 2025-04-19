@@ -57,12 +57,3 @@ I'm an AI researcher and data scientist passionate about advancing **Large Langu
   <img src="https://github-readme-stats.vercel.app/api?username=MilesQLi&show_icons=true&hide_title=true&theme=default" />
 </p>
 
----
-
-## 📬 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/milesqili)
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID-HERE)
-- [Personal Website](#) *(optional)*
-
----
