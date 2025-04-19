@@ -8,11 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a researcher and engineer passionate about advancing **Large Language Models (LLMs)** and **Data Science** for impactful, real-world applications. With a Ph.D. in Computer Science from McGill University, I’ve led and contributed to open-source tools and publications at the intersection of deep learning, NLP, and cybersecurity.
-
-- 🔭 Currently working on: efficient LLM training, scalable inference, and interpretable machine learning
-- 🌱 Exploring: LangChain, LlamaIndex, and reinforcement learning for AI alignment
-- 🧠 Previously: Led a $1.18M academic project on interpretable malware analytics
+I'm an AI researcher and data scientist passionate about advancing **Large Language Models (LLMs)** and **Data Science** for impactful, real-world applications. With a Ph.D. in Computer Science from McGill University, I’ve led and contributed to open-source tools and publications at the intersection of deep learning, NLP, and cybersecurity.
 
 ---
 
@@ -21,7 +17,7 @@ I'm a researcher and engineer passionate about advancing **Large Language Models
 ### 🤖 AI & LLMs
 
 - 🧩 [**Miles_AI_Collection**](https://github.com/MilesQLi/Miles_AI_Collection)  
-  A curated repository of my LLM experiments, including fine-tuning, prompt engineering, and LangChain apps.
+  A curated repository of my LLM experiments, including training, and application built with LangChain etc.
 
 - 🦙 [**DMaS-LLaMa-Lite-Training-Code**](https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code)  
   Complete training pipeline for a 1.7B-parameter LLaMa-based model, optimized for data-efficiency.
