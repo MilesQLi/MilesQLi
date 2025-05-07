@@ -36,7 +36,7 @@ I'm an AI researcher and data scientist passionate about advancing **Large Langu
   Scalable binary similarity analysis platform for reverse engineering, built with Apache Spark and Cassandra.
 
 - 🧮 [**iffnn**](https://github.com/MilesQLi/iffnn)  
-  Interpretable feedforward neural network architecture for tabular data—designed for transparency and usability in sensitive domains.
+  Interpretable feedforward neural network architecture for tabular data with intrinsic explanations for its predictions.
 
 ---
 
