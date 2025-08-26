@@ -19,6 +19,12 @@ I'm an AI researcher and data scientist passionate about advancing **Large Langu
 - 🧩 [**Miles_AI_Collection**](https://github.com/MilesQLi/Miles_AI_Collection)  
   A curated repository of my LLM experiments, including training, and application built with LangChain etc.
 
+- 💬 [**Virtual Customer Service Representative (RAG)**](https://github.com/MilesQLi/VirtualCustomerServiceRepresentative)  
+  Two-page web app (**Admin** + **Chat**) with a FastAPI backend using **LangChain + LangGraph ReAct agent** and **FAISS vector store** (Ollama embeddings) for retrieval-augmented generation.  
+  - Admin panel to configure models and upload knowledge files (PDF/TXT) for indexing.  
+  - Chat interface with persistent sessions and retrieval-augmented responses.  
+  - Integrates with local OpenAI-compatible LLMs and Ollama embeddings.  
+
 - 🦙 [**DMaS-LLaMa-Lite-Training-Code**](https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code)  
   Complete training pipeline for a 1.7B-parameter LLaMa-based model, optimized for data-efficiency.
 
