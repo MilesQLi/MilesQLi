@@ -18,7 +18,14 @@ I'm an AI researcher and data scientist passionate about advancing **Large Langu
 
 - 🧩 [**Miles_AI_Collection**](https://github.com/MilesQLi/Miles_AI_Collection)  
   A curated repository of my LLM experiments, including training, and application built with LangChain etc.
+  
+- 🧭 [**COMPASS-Implementation**](https://github.com/infiniteoptimization/COMPASS-Implementation)
+  General-purpose **multi-agent system** based on Google Research’s **COMPASS (Context-Organized Multi-Agent Planning and Strategy System)** for improving long-horizon LLM reasoning via structured context management. 
 
+  - 3-agent hierarchy: **Main Agent** (execution), **Meta-Thinker** (strategic oversight), **Context Manager** (research notes + context briefs). 
+  - **MCP tool integration** (e.g., Tavily / search tools) for dynamic tool use. 
+  * **FastAPI web dashboard** with real-time streaming and **SQLite** persistence.
+    
 - 💬 [**Virtual Customer Service Representative (RAG)**](https://github.com/MilesQLi/VirtualCustomerServiceRepresentative)  
   Two-page web app (**Admin** + **Chat**) with a FastAPI backend using **LangChain + LangGraph ReAct agent** and **FAISS vector store** (Ollama embeddings) for retrieval-augmented generation.  
   - Admin panel to configure models and upload knowledge files (PDF/TXT) for indexing.  
