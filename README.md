@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Miles Qi Li</h1>
 <p align="center">
-  🎓 AI Developer/Researcher | 🧠 LLM Expert | 📊 Data Scientist<br>
+  🎓 AI Developer/Researcher | 🧠 LLM Expert
   🔬 Data Science, Deep Learning, LLM, NLP, Cybersecurity, and Real-World Applications
 </p>
 
