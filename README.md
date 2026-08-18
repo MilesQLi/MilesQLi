@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Miles Qi Li</h1>
 <p align="center">
-  🎓 AI Researcher | 🧠 LLM Expert | 📊 Data Scientist<br>
+  🎓 AI Developer/Researcher | 🧠 LLM Expert | 📊 Data Scientist<br>
   🔬 Data Science, Deep Learning, LLM, NLP, Cybersecurity, and Real-World Applications
 </p>
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm an AI researcher and data scientist passionate about advancing **Large Language Models (LLMs)** and **Data Science** for impactful, real-world applications. With a Ph.D. in Computer Science from McGill University, I’ve led and contributed to open-source tools and publications at the intersection of deep learning, NLP, and cybersecurity.
+I'm an AI Developer/researcher and data scientist passionate about advancing **Large Language Models (LLMs)** and **Data Science** for impactful, real-world applications. With a Ph.D. in Computer Science from McGill University, I’ve led and contributed to open-source tools and publications at the intersection of deep learning, NLP, and cybersecurity.
 
 ---
 
