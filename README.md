@@ -1,49 +1,42 @@
 <h1 align="center">👋 Hi, I'm Miles Qi Li</h1>
 <p align="center">
-  🎓 AI Developer/Researcher | 🧠 LLM Expert
-  🔬 Data Science, Deep Learning, LLM, NLP, Cybersecurity, and Real-World Applications
+  🛠️ Staff AI Developer @ Tiptree Advanced Systems | 🎓 Ph.D. in Computer Science, McGill University
+  <br>
+  🤖 AI Agent Systems · 🛡️ AI Safety & LLM Security · 🧠 LLM Training & Post-training
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm an AI Developer/researcher and data scientist passionate about advancing **Large Language Models (LLMs)** and **Data Science** for impactful, real-world applications. With a Ph.D. in Computer Science from McGill University, I’ve led and contributed to open-source tools and publications at the intersection of deep learning, NLP, and cybersecurity.
+I build and secure AI agent systems. At **Tiptree Advanced Systems** I work on the infrastructure that research agents run on: sandboxed code execution, job orchestration across HPC clusters, the credential and access model agents operate under, and deep-research agents with tool access. Before that, I was a postdoctoral researcher at McGill working on LLM security, agent safety evaluation, and data-efficient LLM training.
+
+My research record spans AI agent safety and LLM security (constraint-violation benchmarks, prompt injection, jailbreaks, red teaming), LLM pre-training and post-training, and, earlier, adversarial robustness, interpretability, and malware detection. I care about the same question from both sides: how to make agents capable, and how to know when they go wrong.
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ What I Build at Tiptree
 
-### 🤖 AI & LLMs
+- 🤝 [**Althea**](https://althea.tiptreesystems.com)  
+  An always-on AI research assistant with a persistent agent runtime. I build the runtime it runs on (sandboxed code execution, job orchestration across HPC clusters, and the credential and access model agents operate under) and its deep-research agent.
 
-- 🧩 [**Miles_AI_Collection**](https://github.com/MilesQLi/Miles_AI_Collection)  
-  A curated repository of my LLM experiments, including training, and application built with LangChain etc.
-  
-- 🧭 [**COMPASS-Implementation**](https://github.com/infiniteoptimization/COMPASS-Implementation)
-  General-purpose **multi-agent system** based on Google Research’s **COMPASS (Context-Organized Multi-Agent Planning and Strategy System)** for improving long-horizon LLM reasoning via structured context management. 
+- 🗺️ [**Lacuna**](https://lacuna.tiptreesystems.com)  
+  A research map for machine learning that surfaces under-explored research directions from the literature: directions, papers, authors, and venues. I built its hybrid lexical + semantic search, the agent-facing context APIs, author profile claiming with verified identity, the new-papers feed, the hosted MCP endpoint, and the production database and search-index operations.
 
-  - 3-agent hierarchy: **Main Agent** (execution), **Meta-Thinker** (strategic oversight), **Context Manager** (research notes + context briefs). 
-  - **MCP tool integration** (e.g., Tavily / search tools) for dynamic tool use. 
-  * **FastAPI web dashboard** with real-time streaming and **SQLite** persistence.
-    
-- 💬 [**Virtual Customer Service Representative (RAG)**](https://github.com/MilesQLi/VirtualCustomerServiceRepresentative)  
-  Two-page web app (**Admin** + **Chat**) with a FastAPI backend using **LangChain + LangGraph ReAct agent** and **FAISS vector store** (Ollama embeddings) for retrieval-augmented generation.  
-  - Admin panel to configure models and upload knowledge files (PDF/TXT) for indexing.  
-  - Chat interface with persistent sessions and retrieval-augmented responses.  
-  - Integrates with local OpenAI-compatible LLMs and Ollama embeddings.  
+- 🔌 [**Lacuna Research MCP**](https://github.com/tiptreesystems/lacuna-research-mcp)  
+  Open-source MCP server that gives coding agents and assistants access to Lacuna: search research directions, papers, authors, and venues, and generate research proposals.
 
-- 🦙 [**DMaS-LLaMa-Lite-Training-Code**](https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code)  
-  Complete training pipeline for a 1.7B-parameter LLaMa-based model, optimized for data-efficiency.
-
-- 🔁 [**Incremental-LLM-Training**](https://github.com/McGill-DMaS/Incremental-LLM-Training)  
-  Layer-wise incremental LLM training: a novel paradigm to improve compute utilization and training throughput.
+- 🖥️ [**tasc-hpc-daemon**](https://pypi.org/project/tasc-hpc-daemon/)  
+  PyPI package: a daemon that bridges AI agents to remote HPC compute, so an agent can submit, monitor, and collect jobs on a cluster it does not run on.
 
 ---
 
-### 📊 Data Science & ML
+## 🚀 Research Projects
 
-- 📁 [**Miles_Data_Science_Collection**](https://github.com/MilesQLi/Miles_Data_Science_Collection)  
-  Exploratory data analysis, modeling, and evaluation on real-world datasets across domains (music, healthcare, finance).
+### 🛡️ Agent Safety & Security
+
+- 🧪 [**ODCV-Bench**](https://github.com/McGill-DMaS/ODCV-Bench)  
+  A benchmark for evaluating **outcome-driven constraint violations** in autonomous AI agents: whether agents break explicit rules when doing so helps them reach their goal.
 
 - 🛠️ [**Kam1n0-Community**](https://github.com/McGill-DMaS/Kam1n0-Community)  
   Scalable binary similarity analysis platform for reverse engineering, built with Apache Spark and Cassandra.
@@ -51,15 +44,32 @@ I'm an AI Developer/researcher and data scientist passionate about advancing **L
 - 🧮 [**iffnn**](https://github.com/MilesQLi/iffnn)  
   Interpretable feedforward neural network architecture for tabular data with intrinsic explanations for its predictions.
 
+### 🧠 LLM Training
+
+- 🦙 [**DMaS-LLaMa-Lite-Training-Code**](https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code)  
+  Complete training pipeline for a 1.7B-parameter LLaMa-based model, optimized for data-efficiency.
+
+- 🔁 [**Incremental-LLM-Training**](https://github.com/McGill-DMaS/Incremental-LLM-Training)  
+  Layer-wise incremental LLM training: a novel paradigm to improve compute utilization and training throughput.
+
+### 📁 Personal projects
+
+[**COMPASS-Implementation**](https://github.com/infiniteoptimization/COMPASS-Implementation) (multi-agent system after Google Research's COMPASS, with MCP tools and a FastAPI dashboard) · [**Miles_AI_Collection**](https://github.com/MilesQLi/Miles_AI_Collection) (LLM training and LangChain experiments) · [**Virtual Customer Service Representative**](https://github.com/MilesQLi/VirtualCustomerServiceRepresentative) (LangGraph ReAct + FAISS RAG app) · [**Miles_Data_Science_Collection**](https://github.com/MilesQLi/Miles_Data_Science_Collection) (EDA and modeling on real-world datasets)
+
 ---
 
 ## 🧰 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Firecracker](https://img.shields.io/badge/Firecracker-microVM%20Sandboxes-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-Services-009688?logo=fastapi)
+![Redis](https://img.shields.io/badge/Redis-State-red?logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Hybrid%20Search-005571?logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)
+![Slurm](https://img.shields.io/badge/Slurm-HPC%20Jobs-lightgrey)
+![MCP](https://img.shields.io/badge/MCP-Agent%20Tools-9cf)
 ![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-9cf?logo=langchain)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-BigData-orange?logo=apachespark)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-
-
