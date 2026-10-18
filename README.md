@@ -36,7 +36,7 @@ My research record spans AI agent safety and LLM security (constraint-violation 
 ### 🛡️ Agent Safety & Security
 
 - 🧪 [**ODCV-Bench**](https://github.com/McGill-DMaS/ODCV-Bench)  
-  A benchmark for evaluating **outcome-driven constraint violations** in autonomous AI agents: whether agents break explicit rules when doing so helps them reach their goal.
+  A benchmark for evaluating **outcome-driven constraint violations** in autonomous AI agents: whether agents break explicit rules when doing so helps them reach their goal. The paper reached [#1 on Hacker News](https://news.ycombinator.com/item?id=46954920) in February 2026 (544 points, 366 comments; [ranking history](https://hnrankings.com/46954920/)).
 
 - 🛠️ [**Kam1n0-Community**](https://github.com/McGill-DMaS/Kam1n0-Community)  
   Scalable binary similarity analysis platform for reverse engineering, built with Apache Spark and Cassandra.
