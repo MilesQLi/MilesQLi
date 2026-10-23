@@ -21,7 +21,7 @@ My research record spans AI agent safety and LLM security (constraint-violation 
   An always-on AI research assistant with a persistent agent runtime. I build the runtime it runs on (sandboxed code execution, job orchestration across HPC clusters, and the credential and access model agents operate under) and its deep-research agent.
 
 - 🗺️ [**Lacuna**](https://lacuna.tiptreesystems.com)  
-  A research map for machine learning that surfaces under-explored research directions from the literature: directions, papers, authors, and venues. I built its hybrid lexical + semantic search, the agent-facing context APIs, author profile claiming with verified identity, the new-papers feed, the hosted MCP endpoint, and the production database and search-index operations.
+  A research map for machine learning that surfaces under-explored research directions from the literature: directions, papers, authors, and venues. I built its hybrid lexical + semantic search, the agent-facing context APIs, author profile claiming with verified identity, the new-papers feed, the hosted MCP endpoint, and the production database and search-index operations. Here is my [researcher profile on Lacuna](https://lacuna.tiptreesystems.com/author/miles-q-li).
 
 - 🔌 [**Lacuna Research MCP**](https://github.com/tiptreesystems/lacuna-research-mcp)  
   Open-source MCP server that gives coding agents and assistants access to Lacuna: search research directions, papers, authors, and venues, and generate research proposals.
